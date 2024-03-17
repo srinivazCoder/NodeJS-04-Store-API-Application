@@ -1,0 +1,45 @@
+[
+    {
+        "name": "product 1",
+        "price": 31,
+        "company": "ikea",
+        "rating": 1
+    },
+    {
+        "name": "product 2",
+        "price": 22,
+        "company": "ikea",
+        "rating": 2,
+        "featured":true
+    },
+    {
+        "name": "product 3",
+        "price": 33,
+        "company": "ikea",
+        "rating": 3
+    },
+    {
+        "name": "product 4",
+        "price": 34,
+        "company": "ikea",
+        "rating": 4
+    },
+    {
+        "name": "product 5",
+        "price": 35,
+        "company": "ikea",
+        "rating": 5
+    },
+    {
+        "name": "product 6",
+        "price": 36,
+        "company": "ikea",
+        "rating": 6
+    },
+    {
+        "name": "product 7",
+        "price": 37,
+        "company": "ikea",
+        "rating": 7
+    }
+]
